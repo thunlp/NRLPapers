@@ -1,4 +1,5 @@
-### Must-read papers on network representation learning (NRL)/network embedding (NE).
+## Must-read papers on NRL/NE.
+NRL: network representation learning. NE: network embedding.
 
 Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
@@ -52,4 +53,3 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 1. **TransNet: Translation-Based Network Representation Learning for Social Relation Extraction.**
 *Cunchao Tu, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun.* IJCAI 2017. [code](https://github.com/thunlp/transnet)
-
