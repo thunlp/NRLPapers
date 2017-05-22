@@ -22,7 +22,7 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Cheng Yang, Zhiyuan Liu, Deli Zhao, Maosong Sun, Edward Y. Chang.*  IJCAI 2015. [code](https://github.com/thunlp/tadw)
 
 1. **PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks.**
-*Jian Tang, Meng Qu, Qiaozhu Mei.*  KDD 2015
+*Jian Tang, Meng Qu, Qiaozhu Mei.*  KDD 2015. [code](https://github.com/mnqu/PTE)
 
 1. **Asymmetric Transitivity Preserving Graph Embedding.**
 *Mingdong Ou, Peng Cui, Jian Pei, Ziwei Zhang, Wenwu Zhu.*  KDD 2016
