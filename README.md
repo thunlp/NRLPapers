@@ -68,3 +68,9 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 1. **Unsupervised Feature Selection in Signed Social Networks.**
 *Kewei Cheng, Jundong Li, Huan Liu.* KDD 2017. [paper](http://www.public.asu.edu/~jundongl/paper/KDD17_SignedFS.pdf)
+
+1. **struc2vec: Learning Node Representations from Structural Identity.**
+*Leonardo F. R. Ribeiro, Pedro H. P. Saverese, Daniel R. Figueiredo.* KDD 2017. [paper](https://arxiv.org/pdf/1704.03165.pdf) [code](https://github.com/leoribeiro/struc2vec)
+
+1. **Inductive Representation Learning on Large Graphs.**
+*William L. Hamilton, Rex Ying, Jure Leskovec.* Submitted to NIPS 2017. [paper](https://arxiv.org/pdf/1706.02216.pdf) [code](https://github.com/williamleif/GraphSAGE)
