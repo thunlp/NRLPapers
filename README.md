@@ -74,3 +74,6 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 1. **Inductive Representation Learning on Large Graphs.**
 *William L. Hamilton, Rex Ying, Jure Leskovec.* Submitted to NIPS 2017. [paper](https://arxiv.org/pdf/1706.02216.pdf) [code](https://github.com/williamleif/GraphSAGE)
+
+1. **Variation Autoencoder Based Network Representation Learning for Classification.**
+*Hang Li, Haozheng Wang, Zhenglu Yang, Masato Odagaki.* ACL 2017. [paper](http://aclweb.org/anthology/P17-3010)
