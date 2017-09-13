@@ -73,7 +73,13 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Leonardo F. R. Ribeiro, Pedro H. P. Saverese, Daniel R. Figueiredo.* KDD 2017. [paper](https://arxiv.org/pdf/1704.03165.pdf) [code](https://github.com/leoribeiro/struc2vec)
 
 1. **Inductive Representation Learning on Large Graphs.**
-*William L. Hamilton, Rex Ying, Jure Leskovec.* Submitted to NIPS 2017. [paper](https://arxiv.org/pdf/1706.02216.pdf) [code](https://github.com/williamleif/GraphSAGE)
+*William L. Hamilton, Rex Ying, Jure Leskovec.* NIPS 2017. [paper](https://arxiv.org/pdf/1706.02216.pdf) [code](https://github.com/williamleif/GraphSAGE)
 
 1. **Variation Autoencoder Based Network Representation Learning for Classification.**
 *Hang Li, Haozheng Wang, Zhenglu Yang, Masato Odagaki.* ACL 2017. [paper](http://aclweb.org/anthology/P17-3010)
+
+1. **Preserving Proximity and Global Ranking for Node Embedding.**
+*Yi-An Lai, Chin-Chi Hsu, Wenhao Chen, Mi-Yen Yeh, Shou-De Lin.* To appear in NIPS 2017. 
+
+1. **Learning Graph Embeddings with Embedding Propagation.**
+*Alberto Garcia Duran, Mathias Niepert.* To appear in NIPS 2017. 
