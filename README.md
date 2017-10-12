@@ -3,6 +3,19 @@ NRL: network representation learning. NE: network embedding.
 
 Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
+#Survey papers:
+
+1. **Representation Learning on Graphs: Methods and Applications.**
+*William L. Hamilton, Rex Ying, Jure Leskovec* 2017. [paper](https://arxiv.org/pdf/1709.05584.pdf)
+
+1. **Graph Embedding Techniques, Applications, and Performance: A Survey.**
+*Palash Goyal, Emilio Ferrara* 2017. [paper](https://arxiv.org/pdf/1705.02801.pdf)
+
+1. **A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications.**
+*Hongyun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang* 2017. [paper](https://arxiv.org/pdf/1709.07604.pdf)
+
+#Journal and Conference papers:
+
 1. **DeepWalk: Online Learning of Social Representations.**
 *Bryan Perozzi, Rami Al-Rfou, Steven Skiena.*  KDD 2014. [paper](https://arxiv.org/pdf/1403.6652) [code](https://github.com/phanein/deepwalk)
 
@@ -83,3 +96,36 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
 1. **Learning Graph Embeddings with Embedding Propagation.**
 *Alberto Garcia Duran, Mathias Niepert.* To appear in NIPS 2017. 
+
+1. **Name Disambiguation in Anonymized Graphs using Network Embedding.**
+*Baichuan Zhang, Mohammad Al Hasan.* CIKM 2017. 
+
+1. **Enhancing the Network Embedding Quality with Structural Similarity.**
+*Tianshu Lyu, Yuan Zhang, Yan Zhang.* CIKM 2017.
+
+1. **Attributed Signed Network Embedding.**
+*Suhang Wang, Charu Aggarwal, Jiliang Tang, Huan Liu.* CIKM 2017.
+
+1. **Attributed Network Embedding for Learning in a Dynamic Environment.**
+*Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi Chang, Huan Liu.* CIKM 2017.
+
+1. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning.**
+*Tao-yang Fu, Wang-Chien Lee, Zhen Lei.* CIKM 2017.
+
+1. **From Properties to Links: Deep Network Embedding on Incomplete Graphs.**
+*Dejian Yang, Senzhang Wang, Chaozhuo Li, Xiaoming Zhang, Zhoujun Li.* CIKM 2017.
+
+1. **An Attention-based Collaboration Framework for Multi-View Network Representation Learning.**
+*Meng Qu, Jian Tang, Jingbo Shang, Xiang Ren, Ming Zhang, Jiawei Han.* CIKM 2017.
+
+1. **On Embedding Uncertain Graphs.**
+*Jiafeng Hu, Reynold Cheng, Zhipeng Huang, Yixang Fang, Siqiang Luo.* CIKM 2017.
+
+1. **Multi-view Clustering with Graph Embedding for Connectome Analysis.**
+*Guixiang Ma, Lifang He, Chun-Ta Lu, Weixiang Shao, Philip S Yu, Alex D Leow, Ann B Ragin.* CIKM 2017.
+
+1. **Learning Node Embeddings in Interaction Graphs.**
+*Yao Zhang, Yun Xiong, Xiangnan Kong, Yangyong Zhu.* CIKM 2017.
+
+1. **Learning Community Embedding with Community Detection and Node Embedding on Graphs.**
+*Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin ChenChuan Chang, Erik Cambria.* CIKM 2017.
