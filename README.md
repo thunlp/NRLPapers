@@ -3,7 +3,7 @@ NRL: network representation learning. NE: network embedding.
 
 Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
-# Survey papers:
+### Survey papers:
 
 1. **Representation Learning on Graphs: Methods and Applications.**
 *William L. Hamilton, Rex Ying, Jure Leskovec* 2017. [paper](https://arxiv.org/pdf/1709.05584.pdf)
@@ -14,7 +14,7 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 1. **A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications.**
 *Hongyun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang* 2017. [paper](https://arxiv.org/pdf/1709.07604.pdf)
 
-# Journal and Conference papers:
+### Journal and Conference papers:
 
 1. **DeepWalk: Online Learning of Social Representations.**
 *Bryan Perozzi, Rami Al-Rfou, Steven Skiena.*  KDD 2014. [paper](https://arxiv.org/pdf/1403.6652) [code](https://github.com/phanein/deepwalk)
