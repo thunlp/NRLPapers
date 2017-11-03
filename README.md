@@ -3,6 +3,8 @@ NRL: network representation learning. NE: network embedding.
 
 Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 
+We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit for NE/NRL. This repository provides a standard NE/NRL(Network Representation Learning）training and testing framework. Currently, the implemented models in OpenNE include DeepWalk, LINE, node2vec, GraRep, TADW and GCN.
+
 ### Survey papers:
 
 1. **Representation Learning on Graphs: Methods and Applications.**
@@ -92,22 +94,22 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Hang Li, Haozheng Wang, Zhenglu Yang, Masato Odagaki.* ACL 2017. [paper](http://aclweb.org/anthology/P17-3010)
 
 1. **Preserving Proximity and Global Ranking for Node Embedding.**
-*Yi-An Lai, Chin-Chi Hsu, Wenhao Chen, Mi-Yen Yeh, Shou-De Lin.* To appear in NIPS 2017. 
+*Yi-An Lai, Chin-Chi Hsu, Wenhao Chen, Mi-Yen Yeh, Shou-De Lin.* NIPS 2017. 
 
 1. **Learning Graph Embeddings with Embedding Propagation.**
-*Alberto Garcia Duran, Mathias Niepert.* To appear in NIPS 2017. 
+*Alberto Garcia Duran, Mathias Niepert.* NIPS 2017. [paper](https://arxiv.org/pdf/1710.03059.pdf)
 
 1. **Name Disambiguation in Anonymized Graphs using Network Embedding.**
-*Baichuan Zhang, Mohammad Al Hasan.* CIKM 2017. 
+*Baichuan Zhang, Mohammad Al Hasan.* CIKM 2017. [paper](https://arxiv.org/pdf/1702.02287.pdf)
 
 1. **Enhancing the Network Embedding Quality with Structural Similarity.**
-*Tianshu Lyu, Yuan Zhang, Yan Zhang.* CIKM 2017.
+*Tianshu Lyu, Yuan Zhang, Yan Zhang.* CIKM 2017. [paper](http://www.cis.pku.edu.cn/faculty/system/zhangyan/papers/CIKM2017-lts.pdf)
 
 1. **Attributed Signed Network Embedding.**
-*Suhang Wang, Charu Aggarwal, Jiliang Tang, Huan Liu.* CIKM 2017.
+*Suhang Wang, Charu Aggarwal, Jiliang Tang, Huan Liu.* CIKM 2017. [paper](http://www.public.asu.edu/~swang187/publications/SNEA.pdf)
 
 1. **Attributed Network Embedding for Learning in a Dynamic Environment.**
-*Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi Chang, Huan Liu.* CIKM 2017.
+*Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi Chang, Huan Liu.* CIKM 2017. [paper](https://arxiv.org/pdf/1706.01860.pdf)
 
 1. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning.**
 *Tao-yang Fu, Wang-Chien Lee, Zhen Lei.* CIKM 2017.
@@ -116,16 +118,16 @@ Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
 *Dejian Yang, Senzhang Wang, Chaozhuo Li, Xiaoming Zhang, Zhoujun Li.* CIKM 2017.
 
 1. **An Attention-based Collaboration Framework for Multi-View Network Representation Learning.**
-*Meng Qu, Jian Tang, Jingbo Shang, Xiang Ren, Ming Zhang, Jiawei Han.* CIKM 2017.
+*Meng Qu, Jian Tang, Jingbo Shang, Xiang Ren, Ming Zhang, Jiawei Han.* CIKM 2017. [paper](https://arxiv.org/pdf/1709.06636.pdf)
 
 1. **On Embedding Uncertain Graphs.**
-*Jiafeng Hu, Reynold Cheng, Zhipeng Huang, Yixang Fang, Siqiang Luo.* CIKM 2017.
+*Jiafeng Hu, Reynold Cheng, Zhipeng Huang, Yixang Fang, Siqiang Luo.* CIKM 2017. [paper](http://i.cs.hku.hk/~zphuang/pub/CIKM17.pdf)
 
 1. **Multi-view Clustering with Graph Embedding for Connectome Analysis.**
-*Guixiang Ma, Lifang He, Chun-Ta Lu, Weixiang Shao, Philip S Yu, Alex D Leow, Ann B Ragin.* CIKM 2017.
+*Guixiang Ma, Lifang He, Chun-Ta Lu, Weixiang Shao, Philip S Yu, Alex D Leow, Ann B Ragin.* CIKM 2017. [paper](https://www.cs.uic.edu/~clu/doc/cikm17_mcge.pdf)
 
 1. **Learning Node Embeddings in Interaction Graphs.**
-*Yao Zhang, Yun Xiong, Xiangnan Kong, Yangyong Zhu.* CIKM 2017.
+*Yao Zhang, Yun Xiong, Xiangnan Kong, Yangyong Zhu.* CIKM 2017. [paper](https://web.cs.wpi.edu/~xkong/publications/papers/cikm17.pdf)
 
 1. **Learning Community Embedding with Community Detection and Node Embedding on Graphs.**
-*Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin ChenChuan Chang, Erik Cambria.* CIKM 2017.
+*Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin ChenChuan Chang, Erik Cambria.* CIKM 2017. [paper](http://sentic.net/community-embedding.pdf) [code](https://github.com/andompesta/ComE)
