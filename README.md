@@ -131,3 +131,6 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **Learning Community Embedding with Community Detection and Node Embedding on Graphs.**
 *Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin ChenChuan Chang, Erik Cambria.* CIKM 2017. [paper](http://sentic.net/community-embedding.pdf) [code](https://github.com/andompesta/ComE)
+
+1. **Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec.**
+*Jiezhong Qiu, Yuxiao Dong, Hao Ma, Jian Li, Kuansan Wang, Jie Tang.* WSDM 2018. [paper](https://arxiv.org/pdf/1710.02971.pdf)
