@@ -134,3 +134,15 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec.**
 *Jiezhong Qiu, Yuxiao Dong, Hao Ma, Jian Li, Kuansan Wang, Jie Tang.* WSDM 2018. [paper](https://arxiv.org/pdf/1710.02971.pdf)
+
+1. **Exploring Expert Cognition for Attributed Network Embedding.**
+*Xiao Huang, Qingquan Song, Jundong Li, Xia Ben Hu.* WSDM 2018.
+
+1. **SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction.**
+*Hongwei Wang, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu.* WSDM 2018.
+
+1. **Multidimensional Network Embedding with Hierarchical Structures.**
+*Yao Ma, Zhaochun Ren, Ziheng Jiang, Jiliang Tang, Dawei Yin.* WSDM 2018.
+
+1. **Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning.**
+*Meng Qu, Jian Tang, Jiawei Han.* WSDM 2018.
