@@ -87,6 +87,12 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **struc2vec: Learning Node Representations from Structural Identity.**
 *Leonardo F. R. Ribeiro, Pedro H. P. Saverese, Daniel R. Figueiredo.* KDD 2017. [paper](https://arxiv.org/pdf/1704.03165.pdf) [code](https://github.com/leoribeiro/struc2vec)
 
+1. **Label Informed Attributed Network Embedding.**
+*Xiao Huang, Jundong Li, Xia Hu.* WSDM 2017. [paper](http://people.tamu.edu/~xhuang/Xiao_WSDM17.pdf) [code](https://github.com/xhuang31/LANE)
+
+1. **Accelerated Attributed Network Embedding.**
+*Xiao Huang, Jundong Li, Xia Hu.* SDM 2017. [paper](http://www.public.asu.edu/~jundongl/paper/SDM17_AANE.pdf) [code](https://github.com/xhuang31/AANE_Python)
+
 1. **Inductive Representation Learning on Large Graphs.**
 *William L. Hamilton, Rex Ying, Jure Leskovec.* NIPS 2017. [paper](https://arxiv.org/pdf/1706.02216.pdf) [code](https://github.com/williamleif/GraphSAGE)
 
