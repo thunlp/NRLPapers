@@ -152,3 +152,51 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning.**
 *Meng Qu, Jian Tang, Jiawei Han.* WSDM 2018.
+
+1. **Adversarial Network Embedding.**
+*Quanyu Dai, Qiang Li, Jian Tang, Dan Wang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.07838.pdf)
+
+1. **COSINE: Community-Preserving Social Network Embedding from Information Diffusion Cascades.**
+*Yuan Zhang, Tianshu Lyu, Yan Zhang.* AAAI 2018.
+
+1. **Dynamic Network Embedding by Modeling Triadic Closure Process.**
+*Lekui Zhou, Yang Yang, Xiang Ren, Fei Wu, Yueting Zhuang.* AAAI 2018. [paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)
+
+1. **Multi-facet Network Embedding: Beyond the General Solution of Detection and Representation.**
+*Liang Yang, Xiaochun Cao, Yuanfang Guo.* AAAI 2018. 
+
+1. **RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding.**
+*Zheng Wang, Xiaojun Ye, Chaokun Wang, YueXin Wu, Changping Wang, Kaiwen Liang.* AAAI 2018.
+
+1. **Link Prediction via Subgraph Embedding-Based Convex Matrix Completion.**
+*Zhu Cao, Linlin Wang, Gerard De melo.* AAAI 2018.
+
+1. **Generative Adversarial Network based Heterogeneous Bibliographic Network Representation for Personalized Citation Recommendation.**
+*J. Han, Xiaoyan Cai, Libin Yang.* AAAI 2018.
+
+1. **DepthLGP: Learning Embeddings of Out-of-Sample Nodes in Dynamic Networks.**
+*Jianxin Ma, Peng Cui, Wenwu Zhu.* AAAI 2018. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/DepthLGP.pdf)
+
+1. **Structural Deep Embedding for Hyper-Networks.**
+*Ke Tu, Peng Cui, Xiao Wang, fei Wang, Wenwu Zhu.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10146.pdf)
+
+1. **TIMERS: Error-Bounded SVD Restart on Dynamic Networks.**
+*Ziwei Zhang, Peng Cui, Jian Pei, Xiao Wang, Wenwu Zhu.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.09541.pdf)
+
+1. **Community Detection in Attributed Graphs: An Embedding Approach.**
+*Ye Li, Chaofeng Sha, Xin Huang, Yanchun Zhang.* AAAI 2018.
+
+1. **Bernoulli Embeddings for Graphs.**
+*Vinith Misra, Sumit Bhatia.* AAAI 2018. [paper](http://sumitbhatia.net/papers/aaai18.pdf)
+
+1. **Distance-aware DAG Embedding for Proximity Search on Heterogeneous Graphs.**
+*Zemin Liu, Vincent W. Zheng, Zhou Zhao, Fanwei Zhu, Kevin Chen-Chuan Chang, Minghui Wu, Jing Ying.* AAAI 2018.
+
+1. **GraphGAN: Graph Representation Learning with Generative Adversarial Nets.**
+*Hongwei Wang, jia Wang, jialin Wang, MIAO ZHAO, Weinan Zhang, Fuzheng Zhang, Xie Xing, Minyi Guo.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.08267.pdf)
+
+1. **HARP: Hierarchical Representation Learning for Networks.**
+*Haochen Chen, Bryan Perozzi, Yifan Hu, Steven Skiena.* AAAI 2018. [paper](https://arxiv.org/pdf/1706.07845.pdf)
+
+1. **Representation Learning for Scale-free Networks.**
+*Rui Feng, Yang Yang, Wenjie Hu, Fei Wu, Yueting Zhuang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10755.pdf)
