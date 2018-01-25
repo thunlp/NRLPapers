@@ -16,6 +16,12 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications.**
 *Hongyun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang* 2017. [paper](https://arxiv.org/pdf/1709.07604.pdf)
 
+1. **Network Representation Learning: A Survey.**
+*Daokun Zhang, Jie Yin, Xingquan Zhu, Chengqi Zhang* 2018. [paper](https://arxiv.org/pdf/1801.05852.pdf)
+
+1. **Network Representation Learning: An Overview.(In Chinese)**
+*Cunchao Tu, Cheng Yang, Zhiyuan Liu, Maosong Sun* 2017. [paper](http://engine.scichina.com/publisher/scp/journal/SSI/47/8/10.1360/N112017-00145)
+
 ### Journal and Conference papers:
 
 1. **DeepWalk: Online Learning of Social Representations.**
