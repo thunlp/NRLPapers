@@ -202,7 +202,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Hongwei Wang, jia Wang, jialin Wang, MIAO ZHAO, Weinan Zhang, Fuzheng Zhang, Xie Xing, Minyi Guo.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.08267.pdf)
 
 1. **HARP: Hierarchical Representation Learning for Networks.**
-*Haochen Chen, Bryan Perozzi, Yifan Hu, Steven Skiena.* AAAI 2018. [paper](https://arxiv.org/pdf/1706.07845.pdf)
+*Haochen Chen, Bryan Perozzi, Yifan Hu, Steven Skiena.* AAAI 2018. [paper](https://arxiv.org/pdf/1706.07845.pdf) [code](https://github.com/GTmac/HARP)
 
 1. **Representation Learning for Scale-free Networks.**
 *Rui Feng, Yang Yang, Wenjie Hu, Fei Wu, Yueting Zhuang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10755.pdf)
