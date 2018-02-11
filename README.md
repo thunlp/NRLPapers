@@ -63,8 +63,17 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Max-Margin DeepWalk: Discriminative Learning of Network Representation.**
 *Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun.*  IJCAI 2016. [paper](http://thunlp.org/~tcc/publications/ijcai2016_mmdw.pdf) [code](https://github.com/thunlp/mmdw)
 
+1. **Tri-Party Deep Network Representation.**
+*Shirui Pan, Jia Wu, Xingquan Zhu, Chengqi Zhang, Yang Wang.* IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/271.pdf)
+
+1. **Discriminative Deep RandomWalk for Network Classification.**
+*Juzheng Li, Jun Zhu, Bo Zhang.* ACL 2016. [paper](http://www.aclweb.org/anthology/P16-1095)
+
 1. **Structural Deep Network Embedding.**
 *Daixin Wang, Peng Cui, Wenwu Zhu.*  KDD 2016. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SDNE.pdf)
+
+1. **Structural Neighborhood Based Classification of Nodes in a Network.**
+*Sharad Nandanwar, M. N. Murty.* KDD 2016. [paper](http://www.kdd.org/kdd2016/papers/files/Paper_679.pdf)
 
 1. **Community Preserving Network Embedding.**
 *Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/NE-Community.pdf)
