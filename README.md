@@ -1,7 +1,7 @@
 ## Must-read papers on NRL/NE.
 NRL: network representation learning. NE: network embedding.
 
-Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
+Contributed by [Cunchao Tu](http://thunlp.org/~tcc/), Yuan Yao and Zhengyan Zhang.
 
 We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit for NE/NRL. This repository provides a standard NE/NRL(Network Representation Learning）training and testing framework. Currently, the implemented models in OpenNE include DeepWalk, LINE, node2vec, GraRep, TADW and GCN.
 
@@ -215,3 +215,15 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **Representation Learning for Scale-free Networks.**
 *Rui Feng, Yang Yang, Wenjie Hu, Fei Wu, Yueting Zhuang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10755.pdf)
+
+1. **Social Rank Regulated Large-scale Network Embedding.**
+*Yupeng Gu, Yizhou Sun, Yanen Li, Yang Yang.* WWW 2018.
+
+1. **Co-Regularized Deep Multi-Network Embedding.**
+*Jingchao Ni, Shiyu Chang, Xiao Liu, Wei Cheng, Haifeng Chen, Dongkuan Xu, Xiang Zhang.* WWW 2018.
+
+1. **On Exploring Semantic Meanings of Links for Embedding Social Networks.**
+*Linchuan Xu, Xiaokai Wei, Jiannong Cao, Philip S Yu.* WWW 2018. [paper](http://www2.comp.polyu.edu.hk/~cslcxu/papers/IIRL.pdf)
+
+1. **SIDE: Representation Learning in Signed Directed Networks.**
+*Junghwan Kim, Haekyu Park, Ji-Eun Lee, U Kang.* WWW 2018. [paper](https://datalab.snu.ac.kr/side/resources/side.pdf)
