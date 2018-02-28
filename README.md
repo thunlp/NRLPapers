@@ -157,16 +157,16 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Jiezhong Qiu, Yuxiao Dong, Hao Ma, Jian Li, Kuansan Wang, Jie Tang.* WSDM 2018. [paper](https://arxiv.org/pdf/1710.02971.pdf)
 
 1. **Exploring Expert Cognition for Attributed Network Embedding.**
-*Xiao Huang, Qingquan Song, Jundong Li, Xia Ben Hu.* WSDM 2018.
+*Xiao Huang, Qingquan Song, Jundong Li, Xia Ben Hu.* WSDM 2018. [paper](http://people.tamu.edu/~xhuang/Xiao_WSDM18.pdf)
 
 1. **SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction.**
-*Hongwei Wang, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu.* WSDM 2018.
+*Hongwei Wang, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu.* WSDM 2018. [paper](https://arxiv.org/pdf/1712.00732.pdf)
 
 1. **Multidimensional Network Embedding with Hierarchical Structures.**
-*Yao Ma, Zhaochun Ren, Ziheng Jiang, Jiliang Tang, Dawei Yin.* WSDM 2018.
+*Yao Ma, Zhaochun Ren, Ziheng Jiang, Jiliang Tang, Dawei Yin.* WSDM 2018. [paper](http://cse.msu.edu/~mayao4/downloads/Multidimensional_Network_Embedding_with_Hierarchical_Structure.pdf)
 
 1. **Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning.**
-*Meng Qu, Jian Tang, Jiawei Han.* WSDM 2018.
+*Meng Qu, Jian Tang, Jiawei Han.* WSDM 2018. [paper](http://delivery.acm.org/10.1145/3160000/3159711/p468-qu.pdf?ip=203.205.141.123&id=3159711&acc=ACTIVE%20SERVICE&key=39FCDE838982416F%2E39FCDE838982416F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1519788484_7383495a5c522cbe124e62e4d768f8cc)
 
 1. **Adversarial Network Embedding.**
 *Quanyu Dai, Qiang Li, Jian Tang, Dan Wang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.07838.pdf)
