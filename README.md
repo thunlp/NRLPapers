@@ -133,10 +133,10 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi Chang, Huan Liu.* CIKM 2017. [paper](https://arxiv.org/pdf/1706.01860.pdf)
 
 1. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning.**
-*Tao-yang Fu, Wang-Chien Lee, Zhen Lei.* CIKM 2017.
+*Tao-yang Fu, Wang-Chien Lee, Zhen Lei.* CIKM 2017. [paper](http://shichuan.org/hin/topic/Embedding/2017.%20CIKM%20HIN2Vec.pdf)
 
 1. **From Properties to Links: Deep Network Embedding on Incomplete Graphs.**
-*Dejian Yang, Senzhang Wang, Chaozhuo Li, Xiaoming Zhang, Zhoujun Li.* CIKM 2017.
+*Dejian Yang, Senzhang Wang, Chaozhuo Li, Xiaoming Zhang, Zhoujun Li.* CIKM 2017. [paper](https://www.researchgate.net/profile/Senzhang_Wang2/publication/320885185_From_Properties_to_Links_Deep_Network_Embedding_on_Incomplete_Graphs/links/5a0a36b345851551b78d3164/From-Properties-to-Links-Deep-Network-Embedding-on-Incomplete-Graphs.pdf)
 
 1. **An Attention-based Collaboration Framework for Multi-View Network Representation Learning.**
 *Meng Qu, Jian Tang, Jingbo Shang, Xiang Ren, Ming Zhang, Jiawei Han.* CIKM 2017. [paper](https://arxiv.org/pdf/1709.06636.pdf)
@@ -217,7 +217,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Rui Feng, Yang Yang, Wenjie Hu, Fei Wu, Yueting Zhuang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10755.pdf)
 
 1. **Social Rank Regulated Large-scale Network Embedding.**
-*Yupeng Gu, Yizhou Sun, Yanen Li, Yang Yang.* WWW 2018.
+*Yupeng Gu, Yizhou Sun, Yanen Li, Yang Yang.* WWW 2018. [paper](http://yangy.org/works/ge/rare.pdf)
 
 1. **Co-Regularized Deep Multi-Network Embedding.**
 *Jingchao Ni, Shiyu Chang, Xiao Liu, Wei Cheng, Haifeng Chen, Dongkuan Xu, Xiang Zhang.* WWW 2018.
