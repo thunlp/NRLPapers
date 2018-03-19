@@ -229,4 +229,4 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Junghwan Kim, Haekyu Park, Ji-Eun Lee, U Kang.* WWW 2018. [paper](https://datalab.snu.ac.kr/side/resources/side.pdf)
 
 1. **Fast Sequence-Based Embedding with Diffusion Graphs.**
-*Benedek Rozemberczki and Rik Sarkar.* Complenet 2018. [paper](http://homepages.inf.ed.ac.uk/s1668259/papers/sequence.pdf)
+*Benedek Rozemberczki, Rik Sarkar.* Complenet 2018. [paper](http://homepages.inf.ed.ac.uk/s1668259/papers/sequence.pdf)
