@@ -1,7 +1,7 @@
 ## Must-read papers on NRL/NE.
 NRL: network representation learning. NE: network embedding.
 
-Contributed by [Cunchao Tu](http://thunlp.org/~tcc/) and Yuan Yao.
+Contributed by [Cunchao Tu](http://thunlp.org/~tcc/), Yuan Yao and Zhengyan Zhang.
 
 We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit for NE/NRL. This repository provides a standard NE/NRL(Network Representation Learning）training and testing framework. Currently, the implemented models in OpenNE include DeepWalk, LINE, node2vec, GraRep, TADW and GCN.
 
@@ -15,6 +15,12 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications.**
 *Hongyun Cai, Vincent W. Zheng, Kevin Chen-Chuan Chang* 2017. [paper](https://arxiv.org/pdf/1709.07604.pdf)
+
+1. **Network Representation Learning: A Survey.**
+*Daokun Zhang, Jie Yin, Xingquan Zhu, Chengqi Zhang* 2018. [paper](https://arxiv.org/pdf/1801.05852.pdf)
+
+1. **Network Representation Learning: An Overview.(In Chinese)**
+*Cunchao Tu, Cheng Yang, Zhiyuan Liu, Maosong Sun* 2017. [paper](http://engine.scichina.com/publisher/scp/journal/SSI/47/8/10.1360/N112017-00145)
 
 ### Journal and Conference papers:
 
@@ -57,8 +63,17 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Max-Margin DeepWalk: Discriminative Learning of Network Representation.**
 *Cunchao Tu, Weicheng Zhang, Zhiyuan Liu, Maosong Sun.*  IJCAI 2016. [paper](http://thunlp.org/~tcc/publications/ijcai2016_mmdw.pdf) [code](https://github.com/thunlp/mmdw)
 
+1. **Tri-Party Deep Network Representation.**
+*Shirui Pan, Jia Wu, Xingquan Zhu, Chengqi Zhang, Yang Wang.* IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/271.pdf)
+
+1. **Discriminative Deep RandomWalk for Network Classification.**
+*Juzheng Li, Jun Zhu, Bo Zhang.* ACL 2016. [paper](http://www.aclweb.org/anthology/P16-1095)
+
 1. **Structural Deep Network Embedding.**
 *Daixin Wang, Peng Cui, Wenwu Zhu.*  KDD 2016. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SDNE.pdf)
+
+1. **Structural Neighborhood Based Classification of Nodes in a Network.**
+*Sharad Nandanwar, M. N. Murty.* KDD 2016. [paper](http://www.kdd.org/kdd2016/papers/files/Paper_679.pdf)
 
 1. **Community Preserving Network Embedding.**
 *Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/NE-Community.pdf)
@@ -118,10 +133,10 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi Chang, Huan Liu.* CIKM 2017. [paper](https://arxiv.org/pdf/1706.01860.pdf)
 
 1. **HIN2Vec: Explore Meta-paths in Heterogeneous Information Networks for Representation Learning.**
-*Tao-yang Fu, Wang-Chien Lee, Zhen Lei.* CIKM 2017.
+*Tao-yang Fu, Wang-Chien Lee, Zhen Lei.* CIKM 2017. [paper](http://shichuan.org/hin/topic/Embedding/2017.%20CIKM%20HIN2Vec.pdf)
 
 1. **From Properties to Links: Deep Network Embedding on Incomplete Graphs.**
-*Dejian Yang, Senzhang Wang, Chaozhuo Li, Xiaoming Zhang, Zhoujun Li.* CIKM 2017.
+*Dejian Yang, Senzhang Wang, Chaozhuo Li, Xiaoming Zhang, Zhoujun Li.* CIKM 2017. [paper](https://www.researchgate.net/profile/Senzhang_Wang2/publication/320885185_From_Properties_to_Links_Deep_Network_Embedding_on_Incomplete_Graphs/links/5a0a36b345851551b78d3164/From-Properties-to-Links-Deep-Network-Embedding-on-Incomplete-Graphs.pdf)
 
 1. **An Attention-based Collaboration Framework for Multi-View Network Representation Learning.**
 *Meng Qu, Jian Tang, Jingbo Shang, Xiang Ren, Ming Zhang, Jiawei Han.* CIKM 2017. [paper](https://arxiv.org/pdf/1709.06636.pdf)
@@ -142,13 +157,80 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Jiezhong Qiu, Yuxiao Dong, Hao Ma, Jian Li, Kuansan Wang, Jie Tang.* WSDM 2018. [paper](https://arxiv.org/pdf/1710.02971.pdf)
 
 1. **Exploring Expert Cognition for Attributed Network Embedding.**
-*Xiao Huang, Qingquan Song, Jundong Li, Xia Ben Hu.* WSDM 2018.
+*Xiao Huang, Qingquan Song, Jundong Li, Xia Ben Hu.* WSDM 2018. [paper](http://people.tamu.edu/~xhuang/Xiao_WSDM18.pdf)
 
 1. **SHINE: Signed Heterogeneous Information Network Embedding for Sentiment Link Prediction.**
-*Hongwei Wang, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu.* WSDM 2018.
+*Hongwei Wang, Fuzheng Zhang, Min Hou, Xing Xie, Minyi Guo, Qi Liu.* WSDM 2018. [paper](https://arxiv.org/pdf/1712.00732.pdf)
 
 1. **Multidimensional Network Embedding with Hierarchical Structures.**
-*Yao Ma, Zhaochun Ren, Ziheng Jiang, Jiliang Tang, Dawei Yin.* WSDM 2018.
+*Yao Ma, Zhaochun Ren, Ziheng Jiang, Jiliang Tang, Dawei Yin.* WSDM 2018. [paper](http://cse.msu.edu/~mayao4/downloads/Multidimensional_Network_Embedding_with_Hierarchical_Structure.pdf)
 
 1. **Curriculum Learning for Heterogeneous Star Network Embedding via Deep Reinforcement Learning.**
-*Meng Qu, Jian Tang, Jiawei Han.* WSDM 2018.
+*Meng Qu, Jian Tang, Jiawei Han.* WSDM 2018. [paper](http://delivery.acm.org/10.1145/3160000/3159711/p468-qu.pdf?ip=203.205.141.123&id=3159711&acc=ACTIVE%20SERVICE&key=39FCDE838982416F%2E39FCDE838982416F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1519788484_7383495a5c522cbe124e62e4d768f8cc)
+
+1. **Adversarial Network Embedding.**
+*Quanyu Dai, Qiang Li, Jian Tang, Dan Wang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.07838.pdf)
+
+1. **COSINE: Community-Preserving Social Network Embedding from Information Diffusion Cascades.**
+*Yuan Zhang, Tianshu Lyu, Yan Zhang.* AAAI 2018.
+
+1. **Dynamic Network Embedding by Modeling Triadic Closure Process.**
+*Lekui Zhou, Yang Yang, Xiang Ren, Fei Wu, Yueting Zhuang.* AAAI 2018. [paper](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)
+
+1. **Multi-facet Network Embedding: Beyond the General Solution of Detection and Representation.**
+*Liang Yang, Xiaochun Cao, Yuanfang Guo.* AAAI 2018. 
+
+1. **RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding.**
+*Zheng Wang, Xiaojun Ye, Chaokun Wang, YueXin Wu, Changping Wang, Kaiwen Liang.* AAAI 2018.
+
+1. **Link Prediction via Subgraph Embedding-Based Convex Matrix Completion.**
+*Zhu Cao, Linlin Wang, Gerard De melo.* AAAI 2018.
+
+1. **Generative Adversarial Network based Heterogeneous Bibliographic Network Representation for Personalized Citation Recommendation.**
+*J. Han, Xiaoyan Cai, Libin Yang.* AAAI 2018.
+
+1. **DepthLGP: Learning Embeddings of Out-of-Sample Nodes in Dynamic Networks.**
+*Jianxin Ma, Peng Cui, Wenwu Zhu.* AAAI 2018. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/DepthLGP.pdf)
+
+1. **Structural Deep Embedding for Hyper-Networks.**
+*Ke Tu, Peng Cui, Xiao Wang, fei Wang, Wenwu Zhu.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10146.pdf)
+
+1. **TIMERS: Error-Bounded SVD Restart on Dynamic Networks.**
+*Ziwei Zhang, Peng Cui, Jian Pei, Xiao Wang, Wenwu Zhu.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.09541.pdf)
+
+1. **Community Detection in Attributed Graphs: An Embedding Approach.**
+*Ye Li, Chaofeng Sha, Xin Huang, Yanchun Zhang.* AAAI 2018.
+
+1. **Bernoulli Embeddings for Graphs.**
+*Vinith Misra, Sumit Bhatia.* AAAI 2018. [paper](http://sumitbhatia.net/papers/aaai18.pdf)
+
+1. **Distance-aware DAG Embedding for Proximity Search on Heterogeneous Graphs.**
+*Zemin Liu, Vincent W. Zheng, Zhou Zhao, Fanwei Zhu, Kevin Chen-Chuan Chang, Minghui Wu, Jing Ying.* AAAI 2018.
+
+1. **GraphGAN: Graph Representation Learning with Generative Adversarial Nets.**
+*Hongwei Wang, jia Wang, jialin Wang, MIAO ZHAO, Weinan Zhang, Fuzheng Zhang, Xie Xing, Minyi Guo.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.08267.pdf)
+
+1. **HARP: Hierarchical Representation Learning for Networks.**
+*Haochen Chen, Bryan Perozzi, Yifan Hu, Steven Skiena.* AAAI 2018. [paper](https://arxiv.org/pdf/1706.07845.pdf) [code](https://github.com/GTmac/HARP)
+
+1. **Representation Learning for Scale-free Networks.**
+*Rui Feng, Yang Yang, Wenjie Hu, Fei Wu, Yueting Zhuang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10755.pdf)
+
+1. **Social Rank Regulated Large-scale Network Embedding.**
+*Yupeng Gu, Yizhou Sun, Yanen Li, Yang Yang.* WWW 2018. [paper](http://yangy.org/works/ge/rare.pdf)
+
+1. **Co-Regularized Deep Multi-Network Embedding.**
+*Jingchao Ni, Shiyu Chang, Xiao Liu, Wei Cheng, Haifeng Chen, Dongkuan Xu, Xiang Zhang.* WWW 2018.
+
+1. **On Exploring Semantic Meanings of Links for Embedding Social Networks.**
+*Linchuan Xu, Xiaokai Wei, Jiannong Cao, Philip S Yu.* WWW 2018. [paper](http://www2.comp.polyu.edu.hk/~cslcxu/papers/IIRL.pdf)
+
+1. **SIDE: Representation Learning in Signed Directed Networks.**
+*Junghwan Kim, Haekyu Park, Ji-Eun Lee, U Kang.* WWW 2018. [paper](https://datalab.snu.ac.kr/side/resources/side.pdf)
+
+### Preprints
+
+This section contains promising recent preprints.
+
+1. ***NetGAN: Generating Graphs via Random Walks***
+*Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann.* [paper](https://arxiv.org/abs/1803.00816)
