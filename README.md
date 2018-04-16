@@ -181,7 +181,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Liang Yang, Xiaochun Cao, Yuanfang Guo.* AAAI 2018. 
 
 1. **RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding.**
-*Zheng Wang, Xiaojun Ye, Chaokun Wang, YueXin Wu, Changping Wang, Kaiwen Liang.* AAAI 2018.
+*Zheng Wang, Xiaojun Ye, Chaokun Wang, YueXin Wu, Changping Wang, Kaiwen Liang.* AAAI 2018. [paper](https://zhengwang100.github.io/AAAI18_RSDNE.pdf) [code](https://github.com/zhengwang100/RSDNE)
 
 1. **Link Prediction via Subgraph Embedding-Based Convex Matrix Completion.**
 *Zhu Cao, Linlin Wang, Gerard De melo.* AAAI 2018.
