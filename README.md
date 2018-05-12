@@ -228,9 +228,11 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **SIDE: Representation Learning in Signed Directed Networks.**
 *Junghwan Kim, Haekyu Park, Ji-Eun Lee, U Kang.* WWW 2018. [paper](https://datalab.snu.ac.kr/side/resources/side.pdf)
 
+1. ***NetGAN: Generating Graphs via Random Walks***
+*Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann.* ICML 2018. [paper](https://arxiv.org/abs/1803.00816)
+
 ### Preprints
 
 This section contains promising recent preprints.
 
-1. ***NetGAN: Generating Graphs via Random Walks***
-*Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann.* [paper](https://arxiv.org/abs/1803.00816)
+
