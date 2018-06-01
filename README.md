@@ -231,6 +231,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. ***NetGAN: Generating Graphs via Random Walks***
 *Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann.* ICML 2018. [paper](https://arxiv.org/abs/1803.00816)
 
+1. ***Anonymous Walk Embeddings***
+*Sergey Ivanov, Evgeny Burnaev.* ICML 2018. [paper](https://arxiv.org/pdf/1805.11921.pdf)
+
 ### Preprints
 
 This section contains promising recent preprints.
