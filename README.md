@@ -235,4 +235,6 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 This section contains promising recent preprints.
 
+1. ***MolGAN: An implicit generative model for small molecular graphs***
+*Nicola De Cao, Thomas Kipf.* [paper](https://arxiv.org/pdf/1805.11973.pdf)
 
