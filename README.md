@@ -22,7 +22,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Network Representation Learning: An Overview.(In Chinese)**
 *Cunchao Tu, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 2017. [paper](http://engine.scichina.com/publisher/scp/journal/SSI/47/8/10.1360/N112017-00145)
 
-1. ***Relational inductive biases, deep learning, and graph networks***
+1. ***Relational inductive biases, deep learning, and graph networks.***
 *Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinicius Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, Caglar Gulcehre, Francis Song, Andrew Ballard, Justin Gilmer, George Dahl, Ashish Vaswani, Kelsey Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matt Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu.* 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
 
 ### Journal and Conference papers:
@@ -231,16 +231,16 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **SIDE: Representation Learning in Signed Directed Networks.**
 *Junghwan Kim, Haekyu Park, Ji-Eun Lee, U Kang.* WWW 2018. [paper](https://datalab.snu.ac.kr/side/resources/side.pdf)
 
-1. **NetGAN: Generating Graphs via Random Walks**
+1. **NetGAN: Generating Graphs via Random Walks.**
 *Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann.* ICML 2018. [paper](https://arxiv.org/abs/1803.00816)
 
-1. **Anonymous Walk Embeddings**
+1. **Anonymous Walk Embeddings.**
 *Sergey Ivanov, Evgeny Burnaev.* ICML 2018. [paper](https://arxiv.org/pdf/1805.11921.pdf)
 
-1. **Relational inductive bias for physical construction in humans and machines**
+1. **Relational inductive bias for physical construction in humans and machines.**
 *Jessica B. Hamrick, Kelsey R. Allen, Victor Bapst, Tina Zhu, Kevin R. McKee, Joshua B. Tenenbaum, Peter W. Battaglia.*  CogSci 2018. [paper](https://arxiv.org/pdf/1806.01203.pdf)
 
-1. **Graph Networks as Learnable Physics Engines for Inference and Control**
+1. **Graph Networks as Learnable Physics Engines for Inference and Control.**
 *Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller, Raia Hadsell, Peter Battaglia
 .* ICML 2018. [paper](https://arxiv.org/pdf/1806.01242.pdf)
 
@@ -248,8 +248,8 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 This section contains promising recent preprints.
 
-1. **MolGAN: An implicit generative model for small molecular graphs**
+1. **MolGAN: An implicit generative model for small molecular graphs.**
 *Nicola De Cao, Thomas Kipf.* [paper](https://arxiv.org/pdf/1805.11973.pdf)
 
-2. **Relational recurrent neural networks**
+2. **Relational recurrent neural networks.**
 *Adam Santoro, Ryan Faulkner, David Raposo, Jack Rae, Mike Chrzanowski, Theophane Weber, Daan Wierstra, Oriol Vinyals, Razvan Pascanu, Timothy Lillicrap.* [paper](https://arxiv.org/pdf/1806.01822.pdf)
