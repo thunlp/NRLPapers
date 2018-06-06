@@ -251,5 +251,5 @@ This section contains promising recent preprints.
 1. **MolGAN: An implicit generative model for small molecular graphs**
 *Nicola De Cao, Thomas Kipf.* [paper](https://arxiv.org/pdf/1805.11973.pdf)
 
-
-
+2. **Relational recurrent neural networks**
+*Adam Santoro, Ryan Faulkner, David Raposo, Jack Rae, Mike Chrzanowski, Theophane Weber, Daan Wierstra, Oriol Vinyals, Razvan Pascanu, Timothy Lillicrap.* [paper](https://arxiv.org/pdf/1806.01822.pdf)
