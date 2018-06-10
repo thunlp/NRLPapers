@@ -301,6 +301,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.**
 *Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.* KDD 2018. [paper](https://arxiv.org/pdf/1806.01973.pdf)
 
+1. **Semi-supervised User Geolocation via Graph Convolutional Networks.**
+*Afshin Rahimi, Trevor Cohn, Timothy Baldwin.* ACL 2018. [paper](https://arxiv.org/pdf/1804.08049.pdf)
+
 ### Preprints
 
 This section contains promising recent preprints.
