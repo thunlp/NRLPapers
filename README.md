@@ -304,6 +304,15 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Semi-supervised User Geolocation via Graph Convolutional Networks.**
 *Afshin Rahimi, Trevor Cohn, Timothy Baldwin.* ACL 2018. [paper](https://arxiv.org/pdf/1804.08049.pdf)
 
+1. **Deep Gaussian Embedding of Graphs: Unsupervised Inductive Learning via Ranking.**
+*Aleksandar Bojchevski, Stephan Günnemann.* ICLR 2018. [paper](https://arxiv.org/pdf/1707.03815.pdf)
+
+1. **FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling.**
+*Jie Chen, Tengfei Ma, Cao Xiao.* ICLR 2018. [paper](https://arxiv.org/pdf/1801.10247.pdf)
+
+1. **Graph Attention Networks.**
+*Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio.* ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
+
 ### Preprints
 
 This section contains promising recent preprints.
