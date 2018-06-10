@@ -244,6 +244,63 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Alvaro Sanchez-Gonzalez, Nicolas Heess, Jost Tobias Springenberg, Josh Merel, Martin Riedmiller, Raia Hadsell, Peter Battaglia
 .* ICML 2018. [paper](https://arxiv.org/pdf/1806.01242.pdf)
 
+1. **Arbitrary-Order Proximity Preserved Network Embedding.**
+*Ziwei Zhang, Peng Cui, Xiao Wang, Jian Pei, Xuanrong Yao, Wenwu Zhu.* KDD 2018.
+
+1. **NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks.**
+*Wenchao Yu, Wei Cheng, Charu Aggarwal, Kai Zhang, Haifeng Chen, Wei Wang.* KDD 2018.
+
+1. **Dynamic Embeddings for User Profiling in Twitter.**
+*Shangsong Liang, Xiangliang Zhang, Zhaochun Ren, Evangelos Kanoulas.* KDD 2018.
+
+1. **Deep Variational Network Embedding in Wasserstein Space.**
+*Dingyuan Zhu, Peng Cui, Daixin Wang, Wenwu Zhu.* KDD 2018.
+
+1. **Embedding Temporal Network via Neighborhood Formation.**
+*Yuan Zuo, Guannan Liu, Hao Lin, Jia Guo, Xiaoqian Hu, Junjie Wu.* KDD 2018. [paper](https://zuoyuan.github.io/files/htne_kdd18.pdf)
+
+1. **Hierarchical Taxonomy Aware Network Embedding.**
+*Jianxin Ma, Peng Cui, Xiao Wang, Wenwu Zhu.* KDD 2018.
+
+1. **Deep Recursive Network Embedding with Regular Equivalence.**
+*Ke Tu, Peng Cui, Xiao Wang, Philip S. Yu, Wenwu Zhu.* KDD 2018.
+
+1. **PME: Projected Metric Embedding on Heterogeneous Networks for Link Prediction.**
+*Hongxu Chen, Hongzhi Yin, Weiqing Wang, Hao Wang, Quoc Viet Hung Nguyen, Xue Li.* KDD 2018.
+
+1. **Content to Node: Self-translation Network Embedding.**
+*Jie Liu, Zhicheng He, Lai Wei, Yalou Huang.* KDD 2018.
+
+1. **On Interpretation of Network Embedding via Taxonomy Induction.**
+*Ninghao Liu, Xiao Huang, Jundong Li, Xia Hu.* KDD 2018. [paper](http://people.tamu.edu/~xhuang/Ninghao_KDD18.pdf)
+
+1. **Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networks.**
+*Yu Shi, Qi Zhu, Fang Guo, Chao Zhang, Jiawei Han.* KDD 2018. [paper](http://yushi2.web.engr.illinois.edu/kdd18.pdf)
+
+1. **Learning Structural Node Embeddings via Diffusion Wavelets.**
+*Claire Donnat, Marinka Zitnik, David Hallac, Jure Leskovec.* KDD 2018. [paper](https://arxiv.org/pdf/1710.10321.pdf)
+
+1. **Self-Paced Network Embedding.**
+*Hongchang Gao, Heng Huang.* KDD 2018.
+
+1. **Scalable Optimization for Embedding Highly-Dynamic and Recency-Sensitive Data.**
+*Xumin Chen, Peng Cui, Shiqiang Yang.* KDD 2018.
+
+1. **Expressive Graph Comparison via Multi-Scale Representations.**
+*Anton Tsitsulin, Davide Mottin, Panagiotis Karras, Alexander Bronstein, Emmanuel M.* KDD 2018.
+
+1. **Learning Deep Network Representations with Adversarially Regularized Autoencoders.**
+*Wenchao Yu, Cheng Zheng, Wei Cheng, Charu Aggarwal, Dongjin Song, Bo Zong, Haifeng Chen, Wei Wang.* KDD 2018.
+
+1. **SPARC: Self-Paced Network Representation for Few-Shot Rare Category Characterization.**
+*Dawei Zhou, Jingrui He, Hongxia Yang, Wei Fan.* KDD 2018.
+
+1. **Large-Scale Learnable Graph Convolutional Networks.**
+*Hongyang Gao, Zhengyang Wang, Shuiwang Ji.* KDD 2018.
+
+1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.**
+*Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.* KDD 2018. [paper](https://arxiv.org/pdf/1806.01973.pdf)
+
 ### Preprints
 
 This section contains promising recent preprints.
