@@ -313,6 +313,12 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Graph Attention Networks.**
 *Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio.* ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
 
+1. **Out-of-sample extension of graph adjacency spectral embedding.**
+*Keith Levin, Farbod Roosta-Khorasani, Michael W. Mahoney, Carey E. Priebe.* ICML 2018. [paper](https://arxiv.org/pdf/1802.06307.pdf)
+
+1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.**
+*Jianfei Chen, Jun Zhu, Le Song.* ICML 2018. [paper](https://arxiv.org/pdf/1710.10568.pdf)
+
 ### Preprints
 
 This section contains promising recent preprints.
