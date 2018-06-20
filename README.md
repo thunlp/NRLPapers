@@ -319,6 +319,42 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.**
 *Jianfei Chen, Jun Zhu, Le Song.* ICML 2018. [paper](https://arxiv.org/pdf/1710.10568.pdf)
 
+1. **Efficient Attributed Network Embedding via Recursive Randomized Hashing.**
+*Wei Wu, Bin Li, Ling Chen, Chengqi Zhang.* IJCAI 2018.
+
+1. **MASTER: across Multiple social networks, integrate Attribute and STructure Embedding for Reconciliation.**
+*Sen Su, Li Sun, Zhongbao Zhang, Gen Li, Jielun Qu.* IJCAI 2018.
+
+1. **Integrative Network Embedding via Deep Joint Reconstruction.**
+*Di Jin, Meng Ge, Liang Yang, Dongxiao He, Longbiao Wang, Weixiong Zhang.* IJCAI 2018.
+
+1. **Scalable Multiplex Network Embedding.**
+*Hongming Zhang, Liwei Qiu, Lingling Yi, Yangqiu Song.* IJCAI 2018. [paper](http://www.cse.ust.hk/~yqsong/papers/2018-IJCAI-MultiplexNetworkEmbedding.pdf)
+
+1. **Adversarially Regularized Graph Autoencoder for Graph Embedding.**
+*Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang.* IJCAI 2018.
+
+1. **Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding.**
+*Lun Du, Yun Wang, Guojie Song, Zhicong Lu, Junshan Wang.* IJCAI 2018.
+
+1. **Discrete Network Embedding.**
+*Xiaobo Shen, Shirui Pan, Weiwei Liu, Yew-Soon Ong, Quan-Sen Sun.* IJCAI 2018.
+
+1. **Deep Attributed Network Embedding.**
+*Hongchang Gao, Heng Huang.* IJCAI 2018.
+
+1. **Active Discriminative Network Representation Learning.**
+*Li Gao, Hong Yang, Chuan Zhou, Jia Wu, Shirui Pan, Yue Hu.* IJCAI 2018.
+
+1. **ANRL: Attributed Network Representation Learning via Deep Neural Networks.**
+*Zhen Zhang, Hongxia Yang, Jiajun Bu, Sheng Zhou, Pinggang Yu, Jianwei Zhang, Martin Ester, Can Wang.* IJCAI 2018.
+
+1. **Feature Hashing for Network Representation Learning.**
+*Qixiang Wang, Shanfeng Wang, Maoguo Gong, Yue Wu.* IJCAI 2018.
+
+1. **Constructing Narrative Event Evolutionary Graph for Script Event Prediction.**
+*Zhongyang Li, Xiao Ding, Ting Liu.* IJCAI 2018. [paper](https://arxiv.org/abs/1805.05081) [code](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018)
+
 ### Preprints
 
 This section contains promising recent preprints.
