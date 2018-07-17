@@ -34,7 +34,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Yann Jacob, Ludovic Denoyer, Patrick Gallinar.* WSDM 2014. [paper](http://webia.lip6.fr/~gallinar/gallinari/uploads/Teaching/WSDM2014-jacob.pdf)
 
 1. **Non-transitive Hashing with Latent Similarity Componets.**
-*Mingdong Ou, Peng Cui, Fei Wang, Jun Wang, Wenwu Zhu.*  KDD 2015. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/KDD-NonTransitiveHashing.pdf)
+*Mingdong Ou, Peng Cui, Fei Wang, Jun Wang, Wenwu Zhu.*  KDD 2015. [paper](http://cuip.thumedialab.com/papers/KDD-NonTransitiveHashing.pdf)
 
 1. **GraRep: Learning Graph Representations with Global Structural Information.**
 *Shaosheng Cao, Wei Lu, Qiongkai Xu.*  CIKM 2015. [paper](https://www.researchgate.net/profile/Qiongkai_Xu/publication/301417811_GraRep/links/5847ecdb08ae8e63e633b5f2/GraRep.pdf) [code](https://github.com/ShelsonCao/GraRep)
@@ -55,7 +55,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Shaosheng Cao, Wei Lu, Xiongkai Xu.* AAAI 2016. [paper](https://pdfs.semanticscholar.org/1a37/f07606d60df365d74752857e8ce909f700b3.pdf) [code](https://github.com/ShelsonCao/DNGR)
 
 1. **Asymmetric Transitivity Preserving Graph Embedding.**
-*Mingdong Ou, Peng Cui, Jian Pei, Ziwei Zhang, Wenwu Zhu.*  KDD 2016. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/hoppe.pdf)
+*Mingdong Ou, Peng Cui, Jian Pei, Ziwei Zhang, Wenwu Zhu.*  KDD 2016. [paper](http://cuip.thumedialab.com/papers/hoppe.pdf)
 
 1. **Revisiting Semi-supervised Learning with Graph Embeddings.**
 *Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov.* ICML 2016. [paper](http://www.jmlr.org/proceedings/papers/v48/yanga16.pdf)
@@ -73,13 +73,13 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Juzheng Li, Jun Zhu, Bo Zhang.* ACL 2016. [paper](http://www.aclweb.org/anthology/P16-1095)
 
 1. **Structural Deep Network Embedding.**
-*Daixin Wang, Peng Cui, Wenwu Zhu.*  KDD 2016. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/SDNE.pdf)
+*Daixin Wang, Peng Cui, Wenwu Zhu.*  KDD 2016. [paper](http://cuip.thumedialab.com/papers/SDNE.pdf)
 
 1. **Structural Neighborhood Based Classification of Nodes in a Network.**
 *Sharad Nandanwar, M. N. Murty.* KDD 2016. [paper](http://www.kdd.org/kdd2016/papers/files/Paper_679.pdf)
 
 1. **Community Preserving Network Embedding.**
-*Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/NE-Community.pdf)
+*Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. [paper](http://cuip.thumedialab.com/papers/NE-Community.pdf)
 
 1. **Semi-supervised Classification with Graph Convolutional Networks.**
 *Thomas N. Kipf, Max Welling.* ICLR 2017. [paper](https://arxiv.org/pdf/1609.02907.pdf) [code](https://github.com/tkipf/gcn)
@@ -193,7 +193,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *J. Han, Xiaoyan Cai, Libin Yang.* AAAI 2018.
 
 1. **DepthLGP: Learning Embeddings of Out-of-Sample Nodes in Dynamic Networks.**
-*Jianxin Ma, Peng Cui, Wenwu Zhu.* AAAI 2018. [paper](http://media.cs.tsinghua.edu.cn/~multimedia/cuipeng/papers/DepthLGP.pdf)
+*Jianxin Ma, Peng Cui, Wenwu Zhu.* AAAI 2018. [paper](https://jianxinma.github.io/assets/DepthLGP.pdf)
 
 1. **Structural Deep Embedding for Hyper-Networks.**
 *Ke Tu, Peng Cui, Xiao Wang, fei Wang, Wenwu Zhu.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10146.pdf)
@@ -245,7 +245,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 .* ICML 2018. [paper](https://arxiv.org/pdf/1806.01242.pdf)
 
 1. **Arbitrary-Order Proximity Preserved Network Embedding.**
-*Ziwei Zhang, Peng Cui, Xiao Wang, Jian Pei, Xuanrong Yao, Wenwu Zhu.* KDD 2018.
+*Ziwei Zhang, Peng Cui, Xiao Wang, Jian Pei, Xuanrong Yao, Wenwu Zhu.* KDD 2018. [paper](http://cuip.thumedialab.com/papers/NE-ArbitraryProximity.pdf)
 
 1. **NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks.**
 *Wenchao Yu, Wei Cheng, Charu Aggarwal, Kai Zhang, Haifeng Chen, Wei Wang.* KDD 2018.
@@ -254,16 +254,16 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Shangsong Liang, Xiangliang Zhang, Zhaochun Ren, Evangelos Kanoulas.* KDD 2018.
 
 1. **Deep Variational Network Embedding in Wasserstein Space.**
-*Dingyuan Zhu, Peng Cui, Daixin Wang, Wenwu Zhu.* KDD 2018.
+*Dingyuan Zhu, Peng Cui, Daixin Wang, Wenwu Zhu.* KDD 2018. [paper](http://cuip.thumedialab.com/papers/NE-DeepVariational.pdf)
 
 1. **Embedding Temporal Network via Neighborhood Formation.**
 *Yuan Zuo, Guannan Liu, Hao Lin, Jia Guo, Xiaoqian Hu, Junjie Wu.* KDD 2018. [paper](https://zuoyuan.github.io/files/htne_kdd18.pdf)
 
 1. **Hierarchical Taxonomy Aware Network Embedding.**
-*Jianxin Ma, Peng Cui, Xiao Wang, Wenwu Zhu.* KDD 2018.
+*Jianxin Ma, Peng Cui, Xiao Wang, Wenwu Zhu.* KDD 2018. [paper](https://jianxinma.github.io/assets/NetHiex.pdf)
 
 1. **Deep Recursive Network Embedding with Regular Equivalence.**
-*Ke Tu, Peng Cui, Xiao Wang, Philip S. Yu, Wenwu Zhu.* KDD 2018.
+*Ke Tu, Peng Cui, Xiao Wang, Philip S. Yu, Wenwu Zhu.* KDD 2018. [paper](http://cuip.thumedialab.com/papers/NE-RegularEquivalence.pdf)
 
 1. **PME: Projected Metric Embedding on Heterogeneous Networks for Link Prediction.**
 *Hongxu Chen, Hongzhi Yin, Weiqing Wang, Hao Wang, Quoc Viet Hung Nguyen, Xue Li.* KDD 2018.
