@@ -355,6 +355,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Constructing Narrative Event Evolutionary Graph for Script Event Prediction.**
 *Zhongyang Li, Xiao Ding, Ting Liu.* IJCAI 2018. [paper](https://arxiv.org/abs/1805.05081) [code](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018)
 
+1. **Deep Inductive Network Representation Learning.** 	
+*Ryan A. Rossi, Rong Zhou, Nesreen K. Ahmed.* WWW 2018. [paper](http://ryanrossi.com/pubs/rossi-et-al-WWW18-BigNet.pdf)	 
+
 ### Preprints
 
 This section contains promising recent preprints.
