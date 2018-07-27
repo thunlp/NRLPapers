@@ -231,6 +231,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **SIDE: Representation Learning in Signed Directed Networks.**
 *Junghwan Kim, Haekyu Park, Ji-Eun Lee, U Kang.* WWW 2018. [paper](https://datalab.snu.ac.kr/side/resources/side.pdf)
 
+1. **Semi-supervised embedding in attributed networks with outliers.**
+*Jiongqian Liang, Peter Jacobs, Jiankai Sun, and Srinivasan Parthasarathy.* SDM 2018, [paper](https://arxiv.org/pdf/1703.08100.pdf) [code](http://jiongqianliang.com/SEANO/)
+
 1. **NetGAN: Generating Graphs via Random Walks.**
 *Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann.* ICML 2018. [paper](https://arxiv.org/abs/1803.00816)
 
@@ -367,3 +370,7 @@ This section contains promising recent preprints.
 
 2. **Relational recurrent neural networks.**
 *Adam Santoro, Ryan Faulkner, David Raposo, Jack Rae, Mike Chrzanowski, Theophane Weber, Daan Wierstra, Oriol Vinyals, Razvan Pascanu, Timothy Lillicrap.* [paper](https://arxiv.org/pdf/1806.01822.pdf)
+
+3. **MILE: A Multi-Level Framework for Scalable Graph Embedding.**
+*Jiongqian Liang, Saket Gurukar, Srinivasan Parthasarathy.* [paper](https://arxiv.org/pdf/1802.09612.pdf) 
+
