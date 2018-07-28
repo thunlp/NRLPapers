@@ -361,6 +361,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Deep Inductive Network Representation Learning.** 	
 *Ryan A. Rossi, Rong Zhou, Nesreen K. Ahmed.* WWW 2018. [paper](http://ryanrossi.com/pubs/rossi-et-al-WWW18-BigNet.pdf)	 
 
+1. **A Unified Framework for Community Detection and Network Representation Learning.**
+*Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang, Leyu Lin.* TKDE 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8403293/)
+
 ### Preprints
 
 This section contains promising recent preprints.
