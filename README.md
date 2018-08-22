@@ -160,7 +160,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin ChenChuan Chang, Erik Cambria.* CIKM 2017. [paper](http://sentic.net/community-embedding.pdf) [code](https://github.com/andompesta/ComE)
 
 1. **Network Embedding as Matrix Factorization: Unifying DeepWalk, LINE, PTE, and node2vec.**
-*Jiezhong Qiu, Yuxiao Dong, Hao Ma, Jian Li, Kuansan Wang, Jie Tang.* WSDM 2018. [paper](https://arxiv.org/pdf/1710.02971.pdf)
+*Jiezhong Qiu, Yuxiao Dong, Hao Ma, Jian Li, Kuansan Wang, Jie Tang.* WSDM 2018. [paper](https://arxiv.org/pdf/1710.02971.pdf) [code](https://github.com/xptree/NetMF)
 
 1. **Exploring Expert Cognition for Attributed Network Embedding.**
 *Xiao Huang, Qingquan Song, Jundong Li, Xia Ben Hu.* WSDM 2018. [paper](http://people.tamu.edu/~xhuang/Xiao_WSDM18.pdf)
