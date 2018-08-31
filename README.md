@@ -367,6 +367,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **A Unified Framework for Community Detection and Network Representation Learning.**
 *Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang, Leyu Lin.* TKDE 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8403293/)
 
+1. **Learning Node and Edge Embeddings for Signed Networks.**
+*Wenzhuo Song, Shengsheng Wang, Bo Yang, You Lu, Xuehua Zhao, Xueyan Liu.* Neurocomputing 2018. [code](https://github.com/wzsong17/Neural-Network-Signed-Network-Embedding)
+
 ### Preprints
 
 This section contains promising recent preprints.
