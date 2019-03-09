@@ -175,7 +175,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Meng Qu, Jian Tang, Jiawei Han.* WSDM 2018. [paper](http://delivery.acm.org/10.1145/3160000/3159711/p468-qu.pdf?ip=203.205.141.123&id=3159711&acc=ACTIVE%20SERVICE&key=39FCDE838982416F%2E39FCDE838982416F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1519788484_7383495a5c522cbe124e62e4d768f8cc)
 
 1. **Adversarial Network Embedding.**
-*Quanyu Dai, Qiang Li, Jian Tang, Dan Wang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.07838.pdf)
+*Quanyu Dai, Qiang Li, Jian Tang, Dan Wang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.07838.pdf) [code](https://github.com/sachinbiradar9/Adverserial-Inductive-Deep-Walk)
 
 1. **COSINE: Community-Preserving Social Network Embedding from Information Diffusion Cascades.**
 *Yuan Zhang, Tianshu Lyu, Yan Zhang.* AAAI 2018.
