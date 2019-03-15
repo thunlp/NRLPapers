@@ -82,7 +82,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Sharad Nandanwar, M. N. Murty.* KDD 2016. [paper](http://www.kdd.org/kdd2016/papers/files/Paper_679.pdf)
 
 1. **Task-guided and path-augmented heterogeneous network embedding for author identification.**
-*Ting Chen, Yizhou Sun* WSDM 2017. [paper](https://arxiv.org/pdf/1612.02814.pdf) [code](https://github.com/chentingpc/GuidedHeteEmbedding)
+*Ting Chen, Yizhou Sun.* WSDM 2017. [paper](https://arxiv.org/pdf/1612.02814.pdf) [code](https://github.com/chentingpc/GuidedHeteEmbedding)
 
 1. **Community Preserving Network Embedding.**
 *Xiao Wang, Peng Cui, Jing Wang, Jian Pei, Wenwu Zhu, Shiqiang Yang.* AAAI 2017. [paper](http://cuip.thumedialab.com/papers/NE-Community.pdf)
