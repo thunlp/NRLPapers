@@ -367,6 +367,11 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **A Unified Framework for Community Detection and Network Representation Learning.**
 *Cunchao Tu, Xiangkai Zeng, Hao Wang, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun, Bo Zhang, Leyu Lin.* TKDE 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8403293/)
 
+1. **Deep Network Embedding for Graph Representation Learning in Signed Networks.**
+*Xiao Shen, Fu-Lai Chung.* IEEE Transactions on Cybernetics 2018. Paper (https://ieeexplore.ieee.org/document/8486671)
+Code (https://github.com/shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks)
+
+
 ### Preprints
 
 This section contains promising recent preprints.
