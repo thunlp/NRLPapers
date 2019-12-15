@@ -523,7 +523,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Hongming Zhang, Liwei Qiu, Lingling Yi, Yangqiu Song.* IJCAI 2018. [paper](http://www.cse.ust.hk/~yqsong/papers/2018-IJCAI-MultiplexNetworkEmbedding.pdf)
 
 1. **Structural Deep Embedding for Hyper-Networks. (Hyper-Network)**
-*Ke Tu, Peng Cui, Xiao Wang, fei Wang, Wenwu Zhu.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10146.pdf)
+*Ke Tu, Peng Cui, Xiao Wang, Fei Wang, Wenwu Zhu.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10146.pdf)
 
 1. **Representation Learning for Scale-free Networks. (Scale-free Network)**
 *Rui Feng, Yang Yang, Wenjie Hu, Fei Wu, Yueting Zhuang.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.10755.pdf)
