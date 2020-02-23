@@ -302,6 +302,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 #### [Attributed Network](#content)
 
+1. **Network Embedding with Completely-Imbalanced Labels.**
+*Zheng Wang, Xiaojun Ye, Chaokun Wang, Jian Cui, and Philip S. Yu.* TKDE 2020. [paper](https://zhengwang100.github.io/pdf/TKDE20_wzheng.pdf) [code](https://github.com/zhengwang100/RECT)
+
 1. **Outlier Aware Network Embedding for Attributed Networks.**
 *Sambaran Bandyopadhyay, N. Lokesh, M. N. Murty.* AAAI 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3763)
 
