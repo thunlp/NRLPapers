@@ -300,6 +300,18 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Large-Scale Learnable Graph Convolutional Networks.**
 *Hongyang Gao, Zhengyang Wang, Shuiwang Ji.* KDD 2018. [paper](https://arxiv.org/pdf/1808.03965)
 
+1. **DFNets: Spectral CNNs for Graphs with Feedback-Looped Filters.**
+*W. O. K. Asiri Suranga Wijesinghe, Qing Wang.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-3235)
+
+1. **vGraph: A Generative Model for Joint Community Detection and Node Representation Learning.**
+*Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-288)
+
+1. **GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding.**
+*Chenhui Deng, Zhiqiang Zhao, Yongyu Wang, Zhiru Zhang, Zhuo Feng.* ICLR 2020. [paper](https://openreview.net/pdf?id=r1lGO0EKDH)
+
+1. **Inductive and Unsupervised Representation Learning on Graph Structured Objects.**
+*Lichen Wang, Bo Zong, Qianqian Ma, Wei Cheng, Jingchao Ni, Wenchao Yu, Yanchi Liu, Dongjin Song, Haifeng Chen, Yun Fu.* ICLR 2020. [paper](https://openreview.net/pdf?id=rkem91rtDB)
+
 #### [Attributed Network](#content)
 
 1. **Outlier Aware Network Embedding for Attributed Networks.**
@@ -380,6 +392,12 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Content to Node: Self-translation Network Embedding.**
 *Jie Liu, Zhicheng He, Lai Wei, Yalou Huang.* KDD 2018. [paper](https://dl.acm.org/citation.cfm?id=3219988)
 
+1. **Wasserstein Weisfeiler-Lehman Graph Kernels.**
+*Matteo Togninalli, Elisabetta Ghisu, Felipe Llinares-López, Bastian Rieck, Karsten Borgwardt.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-3470)
+
+1. **Rethinking Kernel Methods for Node Representation Learning on Graphs.**
+*Yu Tian, Long Zhao, Xi Peng, Dimitris Metaxas.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-6235)
+
 #### [Dynamic Network](#content)
 
 1. **Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding.**
@@ -417,6 +435,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **Scalable Optimization for Embedding Highly-Dynamic and Recency-Sensitive Data.**
 *Xumin Chen, Peng Cui, Shiqiang Yang.* KDD 2018. [paper](http://pengcui.thumedialab.com/papers/NE-ScalableOptimization.pdf)
+
+1. **Variational Graph Recurrent Neural Networks.**
+*Ehsan Hajiramezanali, Arman Hasanzadeh, Krishna Narayanan, Nick Duffield, Mingyuan Zhou, Xiaoning Qian.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-5712)
 
 #### [Heterogeneous Information Network](#content)
 
@@ -517,6 +538,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **SIDE: Representation Learning in Signed Directed Networks.**
 *Junghwan Kim, Haekyu Park, Ji-Eun Lee, U Kang.* WWW 2018. [paper](https://datalab.snu.ac.kr/side/resources/side.pdf)
 
+1. **Low-dimensional statistical manifold embedding of directed graphs.**
+*Thorben Funke, Tian Guo, Alen Lancic, Nino Antulov-Fantulin.* ICLR 2020. [paper](https://openreview.net/pdf?id=SkxQp1StDH)
+
 #### [Other Models](#content)
 
 1. **Scalable Multiplex Network Embedding. （Multiplex Network)**
@@ -560,6 +584,15 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **Re-evaluating Embedding-Based Knowledge Graph Completion Methods.**
 *Farahnaz Akrami, Lingbing Guo, Wei Hu, Chengkai Li.* CIKM 2018. [paper](http://ranger.uta.edu/~cli/pubs/2018/kgcompletion-cikm18short-akrami.pdf)
+
+1. **Quaternion Knowledge Graph Embeddings.**
+*SHUAI ZHANG, Yi Tay, Lina Yao, Qi Liu.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-1565)
+
+1. **Neural Recurrent Structure Search for Knowledge Graph Embedding.**
+*Yongqi Zhang, Quanming Yao, Lei Chen.* AAAI 2020. [paper](https://arxiv.org/abs/1911.07132)
+
+1. **Knowledge Graph Alignment Network with Gated Multi-­‐hop Neighborhood Aggregation.**
+*Zequn Sun, Chengming Wang, Wei Hu, Muhao Chen, Jian Dai, Wei Zhang, Yuzhong Qu.* AAAI 2020. [paper](https://arxiv.org/abs/1911.08936)
 
 #### [Social Network](#content)
 
@@ -629,6 +662,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **Learning Community Embedding with Community Detection and Node Embedding on Graphs.**
 *Sandro Cavallari, Vincent W. Zheng, Hongyun Cai, Kevin ChenChuan Chang, Erik Cambria.* CIKM 2017. [paper](https://sentic.net/community-embedding.pdf)
+
+1. **End to end learning and optimization on graphs.**
+*Bryan Wilder, Eric Ewing, Bistra Dilkina, Milind Tambe.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-2620)
 
 #### [Recommendation](#content)
 
@@ -700,3 +736,11 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Relational inductive bias for physical construction in humans and machines. (Human physical reasoning)**
 *Jessica B. Hamrick, Kelsey R. Allen, Victor Bapst, Tina Zhu, Kevin R. McKee, Joshua B. Tenenbaum, Peter W. Battaglia.* CogSci 2018. [paper](https://arxiv.org/pdf/1806.01203.pdf)
 
+1. **N-Gram Graph: Simple Unsupervised Representation for Graphs, with Applications to Molecules. (Chemistry)**
+*Shengchao Liu, Mehmet F Demirel, Yingyu Liang.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/9054-n-gram-graph-simple-unsupervised-representation-for-graphs-with-applications-to-molecules.pdf)
+
+1. **Learning metrics for persistence-based summaries and applications for graph classification. (Graph classification)**
+*Qi Zhao, Yusu Wang.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-5218)
+
+1. **Cross-­‐Modality Attention with Semantic Graph Embedding for Multi-­‐Label Classification. (Multi-label classification)**
+*Renchun You, Zhiyao Guo, Cui Lei, Xiang Long, Yingze Bao, Shilei Wen.* AAAI 2020 [paper](https://arxiv.org/abs/1912.07872)
