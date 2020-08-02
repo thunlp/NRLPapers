@@ -312,6 +312,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Inductive and Unsupervised Representation Learning on Graph Structured Objects.**
 *Lichen Wang, Bo Zong, Qianqian Ma, Wei Cheng, Jingchao Ni, Wenchao Yu, Yanchi Liu, Dongjin Song, Haifeng Chen, Yun Fu.* ICLR 2020. [paper](https://openreview.net/pdf?id=rkem91rtDB)
 
+1. **Multi-Relational Classification via Bayesian Ranked Non-Linear Embeddings.**
+*Rashed, Ahmed, Josif Grabocka, and Lars Schmidt-Thieme.* KDD 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330863)
+
 #### [Attributed Network](#content)
 
 1. **Network Embedding with Completely-Imbalanced Labels.**
@@ -333,7 +336,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Hongchang Gao, Heng Huang.* IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0467.pdf)
 
 1. **ANRL: Attributed Network Representation Learning via Deep Neural Networks.**
-*Zhen Zhang, Hongxia Yang, Jiajun Bu, Sheng Zhou, Pinggang Yu, Jianwei Zhang, Martin Ester, Can Wang.* IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0438.pdf)
+*Zhen Zhang, Hongxia Yang, Jiajun Bu, Sheng Zhou, Pinggang Yu, Jianwei Zhang, Martin Ester, Can Wang.* IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0438.pdf) [code](https://github.com/cszhangzhen/ANRL)
 
 1. **Integrative Network Embedding via Deep Joint Reconstruction.**
 *Di Jin, Meng Ge, Liang Yang, Dongxiao He, Longbiao Wang, Weixiong Zhang.* IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0473.pdf)
@@ -444,6 +447,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **Variational Graph Recurrent Neural Networks.**
 *Ehsan Hajiramezanali, Arman Hasanzadeh, Krishna Narayanan, Nick Duffield, Mingyuan Zhou, Xiaoning Qian.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-5712)
+
+1. **Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks.**
+*Srijan Kumar, Xikun Zhang, Jure Leskovec.* KDD 2019. [paper](https://cs.stanford.edu/~srijan/pubs/jodie-kdd2019.pdf) [code](https://github.com/srijankr/jodie/)
 
 #### [Heterogeneous Information Network](#content)
 
