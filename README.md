@@ -400,6 +400,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 #### [Dynamic Network](#content)
 
+1. **Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks.**
+*Hogun Park, Jennifer Neville.* IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0447.pdf)
+
 1. **Dynamic Network Embedding : An Extended Approach for Skip-gram based Network Embedding.**
 *Lun Du, Yun Wang, Guojie Song, Zhicong Lu, Junshan Wang.* IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0288.pdf)
 
