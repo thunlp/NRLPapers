@@ -519,6 +519,12 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **PME: Projected Metric Embedding on Heterogeneous Networks for Link Prediction.**
 *Hongxu Chen, Hongzhi Yin, Weiqing Wang, Hao Wang, Quoc Viet Hung Nguyen, Xue Li.* KDD 2018. [paper](http://net.pku.edu.cn/daim/hongzhi.yin/papers/KDD18-Hongxu.pdf)
 
+1. **Task-guided and path-augmented heterogeneous network embedding for author identification.**
+*Ting Chen, Yizhou Sun.* WSDM 2017. [paper](https://arxiv.org/pdf/1612.02814.pdf) [code](https://github.com/chentingpc/GuidedHeteEmbedding)
+
+1. **Deep Network Embedding for Graph Representation Learning in Signed Networks.**
+*Xiao Shen, Fu-Lai Chung.* IEEE Transactions on Cybernetics 2018. [paper](https://ieeexplore.ieee.org/document/8486671) [code](https://github.com/shenxiaocam/Deep-network-embedding-for-graph-representation-learning-in-signed-networks)
+
 #### [Bipartite Network](#content)
 
 1. **Collaborative Similarity Embedding for Recommender Systems.**
