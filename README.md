@@ -313,7 +313,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 *Lichen Wang, Bo Zong, Qianqian Ma, Wei Cheng, Jingchao Ni, Wenchao Yu, Yanchi Liu, Dongjin Song, Haifeng Chen, Yun Fu.* ICLR 2020. [paper](https://openreview.net/pdf?id=rkem91rtDB)
 
 1. **Multi-Relational Classification via Bayesian Ranked Non-Linear Embeddings.**
-*Rashed, Ahmed, Josif Grabocka, and Lars Schmidt-Thieme.* KDD 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330863)
+*Rashed Ahmed, Josif Grabocka, and Lars Schmidt-Thieme.* KDD 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330863)
 
 #### [Attributed Network](#content)
 
@@ -420,9 +420,6 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 1. **TIMERS: Error-Bounded SVD Restart on Dynamic Networks.**
 *Ziwei Zhang, Peng Cui, Jian Pei, Xiao Wang, Wenwu Zhu.* AAAI 2018. [paper](https://arxiv.org/pdf/1711.09541.pdf)
-
-1. **Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks.**
-*Srijan Kumar,Xikun Zhang,Jure Leskovec.* KDD 2019. [paper](http://delivery.acm.org/10.1145/3340000/3330895/p1269-kumar.pdf)
 
 1. **Attributed Network Embedding for Learning in a Dynamic Environment.**
 *Jundong Li, Harsh Dani, Xia Hu, Jiliang Tang, Yi Chang, Huan Liu.* CIKM 2017. [paper](https://arxiv.org/pdf/1706.01860.pdf)
