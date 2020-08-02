@@ -8,7 +8,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 ### Content
 1. [Survey Papers](#survey-papers)
 2. [Models](#models)
-    1. [Bacis Models](#bacis-models)
+    1. [Basic Models](#basic-models)
     1. [Attributed Network](#attributed-network)
     1. [Dynamic Network](#dynamic-network)
     1. [Heterogeneous Information Network](#heterogeneous-information-network)
@@ -49,7 +49,7 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 
 ### [Models](#content)
 
-#### [Bacis Models](#content)
+#### [Basic Models](#content)
 
 1. **SepNE: Bringing Separability to Network Embedding.**
 *Ziyao Li, Liang Zhang, Guojie Song.* AAAI 2019. [paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4333)
