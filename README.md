@@ -404,6 +404,9 @@ We release [OpenNE](https://github.com/thunlp/openne), an open source toolkit fo
 1. **Rethinking Kernel Methods for Node Representation Learning on Graphs.**
 *Yu Tian, Long Zhao, Xi Peng, Dimitris Metaxas.* NeurIPS 2019. [paper](http://papers.nips.cc/paper/by-source-2019-6235)
 
+1. **Outlier Resistant Unsupervised Deep Architectures for Attributed Network Embedding.**
+*Sambaran Bandyopadhyay, Lokesh N, Saley Vishal Vivek, M. N. Murty.* WSDM 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371788)
+
 #### [Dynamic Network](#content)
 
 1. **Exploiting Interaction Links for Node Classification with Deep Graph Neural Networks.**
